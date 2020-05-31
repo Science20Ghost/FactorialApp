@@ -1,0 +1,13 @@
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\bin\Release\netstandard2.0\FactorialApp.deps.json
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\bin\Release\netstandard2.0\FactorialApp.dll
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\bin\Release\netstandard2.0\ref\FactorialApp.dll
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\bin\Release\netstandard2.0\FactorialApp.pdb
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\FactorialApp.AssemblyInfoInputs.cache
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\FactorialApp.AssemblyInfo.cs
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\FactorialApp.csproj.CoreCompileInputs.cache
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\FactorialApp.dll
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\ref\FactorialApp.dll
+C:\Users\theba\source\repos\FactorialApp\FactorialApp\FactorialApp\obj\Release\netstandard2.0\FactorialApp.pdb
